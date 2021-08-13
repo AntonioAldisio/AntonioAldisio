@@ -7,6 +7,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoonioaldisio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+ 
+ ![Snake animation](https://github.com/antoonioaldisio/antoonioaldisio/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **AntoonioAldisio/AntoonioAldisio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
