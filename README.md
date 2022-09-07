@@ -1,4 +1,4 @@
-## Olá, eu sou Antônio Aldísio. - AINDA EM PROCESSO DE ATUALIZACAO
+## Olá, eu sou Antônio Aldísio. - AINDA EM PROCESSO DE ATUALIZACAO - ![](https://komarev.com/ghpvc/?username=antonioaldisio&color=0085fe)
 ### Bem vindo ao meu perfil GitHub 👋
 
 
