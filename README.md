@@ -9,8 +9,8 @@
 
 💻 Trabalho como back-end e microservicos <br>
 📚 Aprendendo mais sobre codigo limpo e cloud<br>
-📚 (Em processo - 90%) Formado em Engenheria software <br>
-📚 Formado em Engenheria eletrônica <br>
+📚 (Em processo - 90%) Cursando em Engenheria software  - Universidade de Brasília<br>
+📚 Formado em Engenheria eletrônica - Universidade de Brasília <br>
 <br>
 <br>
 
