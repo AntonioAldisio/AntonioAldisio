@@ -16,6 +16,13 @@
 <br>
 <br>
 
+Sou formado em Engenharia Eletrônica e atualmente estou estudando Engenharia de Software. Além da minha formação acadêmica, estou constantemente buscando cursos e especializações para me manter atualizado na minha área.
+
+Tenho conhecimentos em diversas linguagens de programação, como Python, JavaScript/TypeScript, assim como experiência com bancos de dados como MySQL, PostgreSQL e MongoDB. Também estou familiarizado com ferramentas de monitoramento, como Grafana, Prometheus e Zabbix, e tenho habilidades em conteinerização usando Docker e Kubernetes. Em termos de nuvem, tenho experiência com AWS e Azure, e sempre trabalho seguindo metodologias ágeis.
+
+Atualmente, estou envolvido no desenvolvimento e manutenção de sistemas web internos, com foco na automação de processos. Além disso, adquiri experiência em projetar e aprimorar arquiteturas para diferentes clientes, priorizando sempre a resiliência e alta disponibilidade.
+
+Considero-me um profissional organizado e proativo, sempre disposto a ajudar os outros. Tenho facilidade de comunicação e trabalho bem em equipe. Também tive a oportunidade de vivenciar uma experiência internacional na Irlanda por 8 meses, onde pude aprimorar meu nível de inglês.
 
  
 ## 💻 Tech Stack:
