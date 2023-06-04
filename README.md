@@ -53,17 +53,5 @@ Considero-me um profissional organizado e proativo, sempre disposto a ajudar os 
 
 
 
- 
- ## Status ⭐
- 
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width='40%' src="https://github-readme-stats.vercel.app/api?username=antonioaldisio&show_icons=true&theme=dracula" />
-</a> &nbsp; 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width='33.5%'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioaldisio&layout=compact&theme=dracula"/>  
-</a>
-
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=antonioaldisio&icon=0&color=0)](https://visitcount.itsvg.in)
