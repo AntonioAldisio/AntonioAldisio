@@ -11,8 +11,8 @@
 
 💻 Trabalho como back-end e microservicos <br>
 📚 Aprendendo mais sobre codigo limpo e cloud<br>
-📚 (Em processo - 98%) Cursando em Engenheria software  - Universidade de Brasília<br>
-📚 Engenheiro eletrônico - Universidade de Brasília <br>
+📚 Engenheria de Software  - Universidade de Brasília<br>
+📚 Engenheiro Eletrônico - Universidade de Brasília <br>
 <br>
 <br>
 
